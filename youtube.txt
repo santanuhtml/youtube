@@ -1,0 +1,96 @@
+1. Video Making:
+(i) Trying to making a video under 8 min to 15 min. To do this use:
+    I.   Basic Taking
+    II.  Add Free Music
+    III. Change Camera angle
+    IV.  Make Video More interesting (cartoon).
+    V.   Focus on first 15 second (Makin it attractive).
+
+(ii)  Say About others videos between the videos.
+
+(ii)  Use MCQ so that user may comment on it.
+
+(iii) End of the video add this line "Let me know what you thik of this video in the comment."
+      ++++ "And make sure to SUBSCRIBE so you don't miss out on my Future videos."
+
+2. Thumbnail Making:
+(i)   Dont use Youtube color: RED, WHITE, BLACK
+(ii)  Use logo color of htmltech
+(iii) Use 30 character(max) in Thumbnail
+(iv)  Use Big Bold text
+
+
+
+
+3. Title Setup:
+   Topic: Cold Brew Coffee
+
+[X]   Title: My 7 Best Tips For Making Cold Brew Coffee
+
+[OK]  Title: Cold Brew Coffee: MY 7 Best Tips [step-by-step]
+      Title: Cold Brew Coffee: MY 7 Best Tips | Step By Step (Hindi)
+	
+      Note: For tips type videos we may use "in 2021" or "(2021)"
+      
+      Title: How to Get More Views on YouTube in 2021 (NEW Strategy)
+
+
+4. Tag Setup:
+   Add proper tags, don't need unnesseary tags.
+Use
+T -> Main Target keyword (1)
+A -> Alternative keyword (2-3 variation, from youtube just typing main target keyword)
+B -> Brod keyword (2-3)
+
+Example 1:
+T -> GREEN SMOOTHIE RECIPES
+
+A -> GREEN SMOOTHIE RECIPES FOR BREAKFAST
+     EASY GREEN SMOOTHIE RECIPES
+
+B -> NUTRITION 
+     SMOOTHIES
+
+Example 2:
+T -> how to do a push up
+
+A->  how to do a push up beginner
+     how to do a push up easily
+     how to do a push up correctly 
+
+B -> Fitness
+     Workout
+
+**** SUGGESTS VIDEO:
+
+5.  Discription:
+    (i)   Minimu 100 to 200 words (3-4 time use keyword).
+    (ii)  Add your main keyword in your first to second line.
+    (iii) Long Discription helps video Ranking
+
+Example: 
+Step1: Hello Friends, I am San and welcome to our Html Tech Youtube Channel.
+
+Step2: Discription .....
+       Thank you so much for watching.
+
+Step3: Give Othere playlist. Example
+       Html tutorial
+       Link: 
+
+Step4: Other Social Links, Example
+       facebook
+       twitter
+       Instagram
+
+Step5: Use upto 15 tags:
+       #htmltech #hindi #howtodoapushup
+
+
+       
+
+Others:
+(i) Create Playlist
+
+
+
